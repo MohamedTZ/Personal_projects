@@ -1,4 +1,4 @@
-# Personal projects
+# Personal Practice Projects
 Repository contains all personal projects completed through courses, certifications, kaggle, etc. 
 
 Courses studied via online learning platforms such as
